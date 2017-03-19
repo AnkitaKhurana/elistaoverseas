@@ -4,6 +4,16 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+
+   <meta name="description" content="
+Elista Overseas offers various varieties of Indian Footwear , which are well designed and packed through latest state of art to maintain highest international standards & actively involved in Whole Sale Operations / Retail Operations & Export Operations
+
+  Elista Overseas Shoes Footwear Flat heel pencil monk lace up sandal sporty ankle boot slip on belli bellirius high heels Export Retail Buy Sell Company India ">
+  <meta name="keywords" content="Elista,,Overseas , Shoes , Footwear ,Flat, heel, pencil, monk ,lace up, sandal ,sporty, ankle, boot, slip on ,belli, bellirius, high heels ,Export ,Retail, Buy, Sell, Company ,India ">
+
+  <meta name="author" content="Ankita Khurana Anki Shanky ">
+    
+
     <title>Elista Overseas</title>
 
     <!-- Bootstrap -->
@@ -72,11 +82,11 @@
 			<div class="col-md-7  wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
 				<img src="images/about_pic1.jpg" class="img-responsive">
 				<h4></h4>
-				<p>Elista Overseas has originated its roots from <b>Ram Shoes. Co</b> Ram Shoes Co. has a legendary heritage of carrying and nurturing the Footwear Wholesale & Retail  business for over 50 Years under able leadership of Shri Ram Lal Dora . In order to peruse diversified business horizons, Mr Sachin Dora , Mrs Geetanjali Arora & Ms Ankita Khurana has taken the leap forward to build a progressive and dedicated professionally run organization as elista Overseas for the manufacturing & Exporting of Women's Footwear</p>
+				<p style="text-align:justify;">Elista Overseas has originated its roots from <b>Ram Shoes. Co.</b> Ram Shoes Co. has a legendary heritage of carrying and nurturing the Footwear Wholesale & Retail  business for over 50 Years under able leadership of Shri Ram Lal Dora. In order to pursue diversified business horizons, <b>Mr Sachin Dora , Mrs Geetanjali Arora & Ms Ankita Khurana </b>has taken the leap forward to build a progressive and dedicated professionally run organization as elista Overseas for the manufacturing & Exporting of Women's Footwear</p>
 				<p>Elista Overseas established in 2017 as a forward integration plan focused with a large interest of catering and providing best valued complete Woman footwears.Since Inception Elista Overseas is expanding horizons with newer product lines in Women's footwears
-Elista Overseas is one of the most quality conscious, progressive footwear company  owning its flagship brand  “Elista“ 	&reg;
+Elista Overseas is one of the most quality conscious, progressive footwear company  owning its flagship brand  <b>Elista	&reg;</b>
  </p>
- <p>
+ <p style="text-align:justify;">
 					Elista offers various varieties of Indian Footwear , which are well designed and packed through latest state of art to maintain highest international standards & actively involved in Whole Sale Operations / Retail Operations & Export Operations
 				</p>
 				<p>
@@ -168,19 +178,33 @@ Company  have A Long Term Mission Of Becoming The Most Desirable And Sustainable
 	<div class="our-team" id="team">
 		<div class="container">
 			<h3>Our Team</h3>	
-			<div class="text-center">
-				<div class="col-md-4 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
-					<img src="images/services/jk.jpg" alt="" >
-					<h4>JK Khurana</h4>
+			<div class="text-center row">
+				
+				<div class="col-md-4 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+					<img src="images/services/v4.jpg" alt="" >
+					<h4>Vikas Arora</h4>
 					<p></p>
 				</div>
-				<div class="col-md-4 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
-					<img src="images/services/jk.jpg" alt="" >
-					<h4>Geetanjali Arora</h4>
-					<p></p>
+				<div class="col-md-4 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
+					<img src="images/services/jk2.jpg" alt="" >
+					<h4>JK Khurana</h4>
+<p style="text-align : left ;margin: 0px; */">
+
+An enthusiastic personality is a Commerce Post Graduate with a IIFT Merit certificate holder, with more than 20 years of rich Sales & Marketing exposure in the field of International business development of Branded & OEM / Pvt. Label Products in International markets Viz: Africa, Asia Pacific,CIS, East Asia, Europe,Middle East, North America & South Asia is a great asset to Elista Overseas
+</p>
+<p style="text-align : left ; margin-top:10px; margin-left:0px;">
+Under his rich experience, knowledge, skills & abilities in the area of International business  “Elista Overseas” will reach to its New heights
+
+
+</pre>
+					
+						
+						
+
+					</p>
 				</div>
 				<div class="col-md-4 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="900ms">
-					<img src="images/services/sd.jpg" alt="" >
+					<img src="images/services/sd2.jpg" alt="" >
 					<h4>Sachin Dora</h4>
 					<p></p>
 				</div>

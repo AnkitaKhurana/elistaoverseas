@@ -5,12 +5,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
        
-    <meta name="description" content="
+  <meta name="description" content="
 Elista Overseas offers various varieties of Indian Footwear , which are well designed and packed through latest state of art to maintain highest international standards & actively involved in Whole Sale Operations / Retail Operations & Export Operations
 
-  Elista Overseas Shoes Footwear Flat heel pencil monk lace up sandal sporty ankle boot slip on belli bellirius high heels Export Retail Buy Sell Company India "> 
+  Elista Overseas Shoes Footwear Flat heel pencil monk lace up sandal sporty ankle boot slip on belli bellirius high heels Export Retail Buy Sell Company India ">
+   
   <meta name="keywords" content="Elista,,Overseas , Shoes , Footwear ,Flat, heel, pencil, monk ,lace up, sandal ,sporty, ankle, boot, slip on ,belli, bellirius, high heels ,Export ,Retail, Buy, Sell, Company ,India ">
-  
   <meta name="author" content="Ankita Khurana Anki Shanky ">
     
 
@@ -41,7 +41,7 @@ Elista Overseas offers various varieties of Indian Footwear , which are well des
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-                                              
+                                                 
                         <img src="images/logo.png" style="    height: 58px;float: left;     margin-top: 8px;">
                     </div>
                     
@@ -51,8 +51,8 @@ Elista Overseas offers various varieties of Indian Footwear , which are well des
                                 <li role="presentation"><a href="index.html" >Home</a></li>
                                 <li role="presentation"><a href="about.html" >About Us</a></li>
                                                              
-                                <li role="presentation"><a href="brand.html" class="active">Our Brands</a></li>
-                                <li role="presentation"><a href="product.html">Our Products</a></li>
+                              
+                                <li role="presentation"><a href="product.html" class="active">Our Products</a></li>
                                 <li role="presentation"><a href="contact.html">Contact</a></li>                     
                             </ul>
                         </div>
@@ -66,19 +66,47 @@ Elista Overseas offers various varieties of Indian Footwear , which are well des
 		<div class="container">	
 			<div class="breadcrumb">							
 				<li><a href="index.html">Home</a></li>
-				<li>Our Brands</li>			
+				<li>Our Products</li>			
 			</div>		
 		</div>	
 	</div>
 	
 	<section id="portfolio">	
         <div class="container">
-            <div class="center">
+            <div class="center"
+          
+            >
             <br>
             <br>
-            <h2>Brand List</h2>
+            <h2>WOMEN'S COLLECTION</h2>
 
-
+               <p style="text-align:left; margin-top: 2px; 
+     margin-bottom: 2px; 
+    font-size: 16px;"
+                >Elista  Footwears  are in a league of their own, Uniquely crafted to support your whole body, the Footwear  are ergonomically designed to provide shock cushioning and sturdy gripping to you thus reducing strain on your legs, feet and backbone, Giving you one less reason to worry about! </p>
+               <p style="text-align:left; margin-top: 2px; 
+     margin-bottom: 2px; 
+    font-size: 16px;">Our Footwear style, unparalleled beauty and comfort; After all, these have been designed by best designers and made by passionate craftsmen who put their utmost efforts rendering the Footwear  most beautiful, tough, dependable yet comfortable enough to enable you to walk, stand as comfortably as barefoot from first day of wearing, giving you the natural freedom of movement.. It is therefore a complete package! </p>
+               <p style="text-align:left; margin-top: 2px; 
+     margin-bottom: 2px; 
+    font-size: 16px; ">These highly appreciable qualities make it perfect for professionals in highly stressful jobs, as well as for people who want ultimate comfort and style.
+We have pioneered the relationship between performance and style that today’s customers have come to expect. We stand out in an ocean of monotony by continuous improvements & enhancements thus reinventing footwear.</p>
+<p style="text-align:left; margin-top: 2px; 
+     margin-bottom: 2px; 
+    font-size: 16px; ">In touch with the latest trends, our team strongly tries to ensure that materials, shapes & colors are in a perfect harmony & conform to international standards.
+We manufacture   
+</p>
+<ul style="color: black;">
+<li>LACE UPS</li>
+<li>SANDALS</li>
+<li>SPORTY</li>
+<li>ANKLE BOOT</li>
+<li>SLIP ON</li>
+<li>MONK SHOE </li>
+<li>BELLIRIUS</li>
+<li>HIGH HEELS</li>
+ 
+ </ul>
             </div>
 
 		</div>
@@ -91,7 +119,7 @@ Elista Overseas offers various varieties of Indian Footwear , which are well des
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <h3><a href="#">LACE UPS</a></h3>
-                                    <p>About Lace Ups</p>
+                                    <p></p>
                                     <a class="preview" href="images/portfolio/full/lace.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                                 </div> 
                             </div>
@@ -104,7 +132,7 @@ Elista Overseas offers various varieties of Indian Footwear , which are well des
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <h3><a href="#">SANDALS</a></h3>
-                                    <p>About Sandals</p>
+                                    <p></p>
                                     <a class="preview" href="images/portfolio/full/sandal.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                                 </div> 
                             </div>
@@ -117,7 +145,7 @@ Elista Overseas offers various varieties of Indian Footwear , which are well des
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <h3><a href="#">SPORTY </a></h3>
-                                    <p>About SPORTY</p>
+                                    <p></p>
                                     <a class="preview" href="images/portfolio/full/sporty.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                                 </div> 
                             </div>
@@ -130,7 +158,7 @@ Elista Overseas offers various varieties of Indian Footwear , which are well des
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <h3><a href="#">ANKLE BOOT</a></h3>
-                                    <p>About ANKLE BOOT</p>
+                                    <p></p>
                                     <a class="preview" href="images/portfolio/full/ankleboot.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                                 </div> 
                             </div>
@@ -143,12 +171,28 @@ Elista Overseas offers various varieties of Indian Footwear , which are well des
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <h3><a href="#">SLIP ON</a></h3>
-                                    <p>About SLIP ON</p>
+                                    <p></p>
                                     <a class="preview" href="images/portfolio/full/slipon.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                                 </div> 
                             </div>
                         </div>      
                     </div><!--/.portfolio-item-->
+
+
+                    <div class="portfolio-item bootstrap wordpress col-xs-12 col-sm-4 col-md-3">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="images/portfolio/full/heel.png" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                    <h3><a href="#">HIGH HEELS </a></h3>
+                                    <p></p>
+                                    <a class="preview" href="images/portfolio/full/heel.png" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                </div> 
+                            </div>
+                        </div>        
+                    </div><!--/.portfolio-item-->
+
+
 
                     <div class="portfolio-item wordpress html apps col-xs-12 col-sm-4 col-md-3">
                         <div class="recent-work-wrap">
@@ -156,7 +200,7 @@ Elista Overseas offers various varieties of Indian Footwear , which are well des
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <h3><a href="#">MONK SHOE</a></h3>
-                                    <p>About MONK SHOE</p>
+                                    <p></p>
                                     <a class="preview" href="images/portfolio/full/monk.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                                 </div> 
                             </div>
@@ -169,7 +213,7 @@ Elista Overseas offers various varieties of Indian Footwear , which are well des
                             <div class="overlay">
                                 <div class="recent-work-inner">
                                     <h3><a href="#">BELLIRIUS</a></h3>
-                                    <p>About BELLIRIUS</p>
+                                    <p></p>
                                     <a class="preview" href="images/portfolio/full/belli.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                                 </div> 
                             </div>
@@ -181,7 +225,6 @@ Elista Overseas offers various varieties of Indian Footwear , which are well des
         </div>
     </section><!--/#portfolio-item-->
 	
-
 
 
     <footer>
@@ -220,7 +263,6 @@ Elista Overseas offers various varieties of Indian Footwear , which are well des
             </div>      
         </div>
     </footer>
-
 
     
     
